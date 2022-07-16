@@ -1,11 +1,11 @@
-package com.rdstation;
+package com.rdstation.domain;
 
-public class Customer {
+public class CustomerSuccess {
 
     private final int id;
     private final int score;
 
-    public Customer(int id, int score) {
+    public CustomerSuccess(int id, int score) {
         this.id = id;
         this.score = score;
     }

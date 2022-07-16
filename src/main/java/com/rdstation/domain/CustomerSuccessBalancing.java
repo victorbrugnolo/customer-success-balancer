@@ -1,5 +1,7 @@
-package com.rdstation;
+package com.rdstation.domain;
 
+import com.rdstation.domain.Customer;
+import com.rdstation.domain.CustomerSuccess;
 import java.util.*;
 
 public class CustomerSuccessBalancing {
