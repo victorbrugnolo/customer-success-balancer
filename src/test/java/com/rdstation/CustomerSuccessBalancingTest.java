@@ -1,8 +1,5 @@
 package com.rdstation;
 
-import com.rdstation.domain.Customer;
-import com.rdstation.domain.CustomerSuccess;
-import com.rdstation.domain.CustomerSuccessBalancing;
 import org.junit.Test;
 
 import java.util.ArrayList;

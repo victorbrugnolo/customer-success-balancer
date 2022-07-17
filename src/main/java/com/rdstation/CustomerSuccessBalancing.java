@@ -1,4 +1,4 @@
-package com.rdstation.domain;
+package com.rdstation;
 
 import java.util.Comparator;
 import java.util.HashSet;
